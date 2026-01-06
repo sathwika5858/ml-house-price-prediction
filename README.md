@@ -93,9 +93,10 @@ Users can enter the house area in square feet and get the predicted price instan
 
 To run the Streamlit app:streamlit run streamlit_app.py
 
-
 ---
 
 ## 👩‍💻 Author
 **Yelike Gowri Sathwika**  
 B.Tech – Artificial Intelligence & Data Science
+
+
